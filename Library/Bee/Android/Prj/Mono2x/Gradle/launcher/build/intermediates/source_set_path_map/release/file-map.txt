@@ -1,0 +1,10 @@
+com.DefaultCompany.vr_assignment_1.launcher-pngs-0 C:\Users\Herna\vr_assignment_1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.vr_assignment_1.launcher-resValues-1 C:\Users\Herna\vr_assignment_1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.vr_assignment_1.launcher-rs-2 C:\Users\Herna\vr_assignment_1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.vr_assignment_1.launcher-mergeReleaseResources-3 C:\Users\Herna\vr_assignment_1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.vr_assignment_1.launcher-mergeReleaseResources-4 C:\Users\Herna\vr_assignment_1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.vr_assignment_1.launcher-merged_res-5 C:\Users\Herna\vr_assignment_1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.vr_assignment_1.launcher-main-6 C:\Users\Herna\vr_assignment_1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.vr_assignment_1.launcher-release-7 C:\Users\Herna\vr_assignment_1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.vr_assignment_1.launcher-packaged_res-8 C:\Users\Herna\vr_assignment_1\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.DefaultCompany.vr_assignment_1.launcher-packaged_res-9 C:\Users\Herna\vr_assignment_1\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release
